@@ -6,7 +6,7 @@ public class JLabelProg {
         JFrame jf= new JFrame();
         jf.setBounds(200, 200, 400, 400);
 
-        JLabel jl= new JLabel();
+               
 
 
 
