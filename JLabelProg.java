@@ -1,9 +1,12 @@
-import javax.swing.JFrame;
+import javax.swing.*;
+
 
 public class JLabelProg {
     public static void main(String[] args) {
         JFrame jf= new JFrame();
         jf.setBounds(200, 200, 400, 400);
+
+        JLabel jl= new JLabel();
 
 
 
