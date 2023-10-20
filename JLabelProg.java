@@ -15,9 +15,9 @@ public class JLabelProg {
         c.setLayout(null);
 
         //to set image into JLabel..........
-        ImageIcon icon= new ImageIcon("hi.avif");
+        ImageIcon icon= new ImageIcon("c.png");
         JLabel jl= new JLabel("hello",icon,JLabel.RIGHT);
-        jl.setBounds(10, 50, icon.getIconWidth(), icon.getIconHeight());
+        jl.setBounds(0, 50, 1200, 1000);
 
         // to change font of jlabel
         Font f= new Font("Arial",Font.ITALIC,20);
