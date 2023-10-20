@@ -7,8 +7,8 @@ import javax.swing.JTextArea;
 
 public class JScrollBarProg {
      public static void main(String[] args) {
-        JFrame jf= new JFrame("ScrollBar");
-        jf.setBounds(10, 10, 200, 150);
+        JFrame jf= new JFrame();
+        jf.setBounds(100, 100, 600, 450);
         JTextArea ta = new JTextArea();
         ta.setBounds(200, 200, 200, 200);
         JScrollPane sp = new JScrollPane(ta);
@@ -21,6 +21,7 @@ public class JScrollBarProg {
         
         
         jf.setLayout(null);
+        jf.setTitle("SCrollBar");
         jf.setVisible(true);
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
