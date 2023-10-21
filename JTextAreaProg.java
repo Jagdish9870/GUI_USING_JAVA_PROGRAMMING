@@ -8,7 +8,7 @@ public class JTextAreaProg {
         jf.setLayout(null);
         jf.setVisible(true);
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        Container c= jf.getContentPane();
+        
         
         
 
@@ -17,6 +17,8 @@ public class JTextAreaProg {
         JTextArea jt = new JTextArea();
         jt.setBounds(100, 50, 200, 100);
         jf.add(jt);
+        jt.setBackground(Color.BLACK);
+        jt.setForeground(Color.WHITE);
         
     }
     
