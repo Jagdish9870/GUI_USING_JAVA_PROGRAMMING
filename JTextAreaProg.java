@@ -19,6 +19,8 @@ public class JTextAreaProg {
         jf.add(jt);
         jt.setBackground(Color.BLACK);
         jt.setForeground(Color.WHITE);
+        jt.setText("This is a text area");
+        jt.setFont(new Font("Arial",Font.BOLD,20));
         
     }
     
