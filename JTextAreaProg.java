@@ -21,6 +21,7 @@ public class JTextAreaProg {
         jt.setForeground(Color.WHITE);
         jt.setText("This is a text area");
         jt.setFont(new Font("Arial",Font.BOLD,20));
+        jt.setEditable(false); // by this method we can set text as non editable...
         
     }
     
