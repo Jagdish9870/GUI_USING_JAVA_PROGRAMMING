@@ -8,6 +8,8 @@ public class JButtonProg {
         jf.setLayout(null);
         jf.setVisible(true);
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        //for button.................
         JButton jb= new JButton();
         jb.setBounds(100, 50, 100, 50);
         jb.setText("click here");
