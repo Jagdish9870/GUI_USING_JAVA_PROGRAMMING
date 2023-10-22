@@ -7,6 +7,7 @@ public class JButtonProg {
         jf.setBounds(200, 200, 600, 400);  // we can define  size  and location using this method  also
         jf.setLayout(null);
         jf.setVisible(true);
+        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JButton jb= new JButton();
         jb.setBounds(100, 50, 100, 50);
         jb.setText("click here");

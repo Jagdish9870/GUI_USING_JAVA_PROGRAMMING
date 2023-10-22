@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class JTextAreaProg {
+public class JTextFieldProg {
     public static void main(String[] args) {
         JFrame jf = new JFrame();
         jf.setBounds(100, 50, 100, 200);
