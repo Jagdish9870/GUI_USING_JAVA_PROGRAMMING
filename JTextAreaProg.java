@@ -18,13 +18,14 @@ public class JTextAreaProg {
 
 
         JTextArea jt = new JTextArea();
-        jt.setBounds(100, 50, 200, 100);
+        jt.setBounds(100, 50, 200, 400);
         jf.add(jt);
         jt.setBackground(Color.BLACK);
         jt.setForeground(Color.WHITE);
         jt.setText("This is a text area");
-        jt.setFont(new Font("Arial",Font.BOLD,20));
+        jt.setFont(new Font("Arial",Font.ITALIC,20));
        // jt.setEditable(false); // by this method we can set text as non editable...
+       jt.setLineWrap(true);
         
 
         

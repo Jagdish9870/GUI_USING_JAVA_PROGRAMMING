@@ -8,9 +8,10 @@ public class JFrameProg{
          jf.setBounds(200, 200, 600, 400);  // we can define  size  and location using this method  also
          jf.setLayout(null);
         jf.setVisible(true);
+        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
          // jf.setSize(200,400);  // here we define the opening size of jframe
-         //jf.setLocation(20, 20);
+         jf.setLocationRelativeTo(null);   // open the window in center...........
 
 
 
@@ -27,7 +28,6 @@ public class JFrameProg{
 
 
         
-        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
     }
 }
