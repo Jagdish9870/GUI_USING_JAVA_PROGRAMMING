@@ -27,8 +27,28 @@ public class ActionListnerProgUsingInnerClass {
         }
         );
 
+        //we can write above code like it or above code is the sorted code of below wriitten code..........
+
+        //jb.addActionListener(new ActionListener(){
+        //     public void ActionPerformed(ActionEvent e){
+
+        //     }
+        // });
+
+            
+        // we can write above code like this using other class method here we handle event in other class.................
+            /* 
+        b.addActionListener(new className());
+
+        class className impelements ActionListener{
+             public void ActionPerformed(ActionEvent e){
+
+             }
+
+        }
 
 
+        */
         
     }
     
