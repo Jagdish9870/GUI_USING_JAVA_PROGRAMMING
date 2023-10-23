@@ -18,7 +18,7 @@ public class JComboBoxProg {
 
         // select items by default......................
         b1.setSelectedItem("apple");
-       // b1.setSelectedIndex(1);     // default selection by index
+       // b1.setSelectedIndex(1);     // default selection by index..
        
         
     }
