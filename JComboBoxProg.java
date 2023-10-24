@@ -14,8 +14,8 @@ public class JComboBoxProg {
 
         // to put the values in combobox..
         String[] str={"mango","grapes","apple"};
-        JComboBox b1 = new JComboBox(str);
-        
+        JComboBox<String> b1 = new JComboBox<String>(str);
+
         b1.setFont(new Font("arial",Font.BOLD,20));
         b1.setBounds(100, 50, 200, 50);
 
