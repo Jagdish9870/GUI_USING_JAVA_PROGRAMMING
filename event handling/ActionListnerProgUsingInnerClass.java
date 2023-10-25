@@ -1,9 +1,6 @@
 import java.awt.Color;
 import java.awt.event.*;
-
 import javax.swing.*;
-
-
 public class ActionListnerProgUsingInnerClass {
     public static void main(String[] args) {
         JFrame jf = new JFrame();
@@ -24,11 +21,9 @@ public class ActionListnerProgUsingInnerClass {
 
             jt.setBackground(Color.BLACK);
             jt.setForeground(Color.WHITE);
-        }
-        );
+        });
 
         //we can write above code like it or above code is the sorted code of below wriitten code..........
-
         //jb.addActionListener(new ActionListener(){
         //     public void ActionPerformed(ActionEvent e){
 
