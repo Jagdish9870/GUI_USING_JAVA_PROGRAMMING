@@ -37,7 +37,7 @@ public class JComboBoxProg {
        jf.add(jb);
 
        jb.addActionListener((ActionEvent e)->{
-           String sel= String.valueOf(b1.getSelectedIndex());
+           String sel= String.valueOf(b1.getSelectedIndex()); // to get the index of selected item..................
            String sel2 = (String)b1.getSelectedItem();
         jt.setText(sel+" "+ sel2);
         
