@@ -12,7 +12,7 @@ public class JTextFieldProg {
         
         
 
-
+            // used to enter single line as input
 
         JTextField jt = new JTextField();
         jt.setBounds(100, 50, 200, 100);
