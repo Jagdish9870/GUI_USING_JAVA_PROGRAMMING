@@ -6,7 +6,7 @@ Layout :- arrangement of component inside a container is called layout.........
 3.flow-- it is default for jpanel.. width is defined by layout itself..position of component is not fixed.. vary on frame size.. 
 4.grid  -- component adjust themself according to screen size, but adjusted in the form of matrix(row,colmn) and size of wech component will same
 5.gridbag   -- we can set the postion of component and same as grid layout....
-6.card Layout
+6.card Layout -- it adds the component like stack of card , one after another and only one component is visible at a time..
 7.group
-8.Box
+8.Box -- it arrange the component in single row or single coloumn and same as flow layout with extra feature..
 9.
