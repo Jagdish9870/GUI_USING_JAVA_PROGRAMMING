@@ -29,7 +29,8 @@ public class JcheckBoxMenuItemProg {
          if(cbmi.isSelected()){
             jt.setText("selected");
          }
-         else{
+         else
+         {
             jt.setText("not selected");
          }
          
