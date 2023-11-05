@@ -4,11 +4,11 @@ import javax.swing.*;
 class Frame23 extends JFrame{
         Frame23(){
         setBounds(200, 200, 600, 400);  
+        JEditorPane ep= new JEditorPane();   // editor have inbuilt wrapper function..............unlike jTextArea....
+        ep.setContentType("Text/plain");
+        ep.setText("hii what is your name...");
+        add(ep);
         setVisible(true);
-       JEditorPane ep= new JEditorPane();   // editor have inbuilt wrapper function..............unlike jTextArea....
-       ep.setContentType("Text/plain");
-       ep.setText("hii what is your name...");
-       add(ep);
 
 
 

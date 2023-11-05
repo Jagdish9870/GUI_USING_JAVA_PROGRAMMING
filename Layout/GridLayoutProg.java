@@ -29,7 +29,7 @@ public class GridLayoutProg {
         jf.add(jb3);
         jf.add(jb4);
         jf.add(jb5);
-        GridLayout g= new GridLayout();
+        GridLayout g= new GridLayout(2,3);
         g.setHgap(10);
         g.setVgap(10);
 

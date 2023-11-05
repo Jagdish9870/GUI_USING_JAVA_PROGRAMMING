@@ -1,11 +1,13 @@
+package JFrame_creation_Ways;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import java.awt.*;
 
-public class JFrameProg{
+public class JFramePro1{
     public static void main(String[] args) {
+        // we can define  size  and location using this method  also
         JFrame jf = new JFrame();
-         jf.setBounds(200, 200, 600, 400);  // we can define  size  and location using this method  also
+        jf.setBounds(200, 200, 600, 400);  
          jf.setLayout(null);
         jf.setVisible(true);
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
