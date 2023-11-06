@@ -1,0 +1,16 @@
+look refers to the appearance of GUI  wiget and and feel refers to behavior of widgets..
+
+
+UIMANAGER is used to set look and feel...
+
+types: 
+1.metal
+2.motif
+3.nimbus
+4.window
+5.windowClassic
+
+ these are java's in built LookAndFeel........................
+
+
+ there are various lookAndFeel available on internet but we have to import them in our project to use....

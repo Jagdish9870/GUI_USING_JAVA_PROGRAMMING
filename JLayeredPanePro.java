@@ -50,9 +50,9 @@ public class JLayeredPanePro extends JFrame {
         // lp.add(jb2);
         // lp.add(jb3 );
             // by these method we can define the depth of buttons..
-        lp.add(jb1,new Integer(10));            
-        lp.add(jb2,new Integer(40));
-        lp.add(jb3, new Integer(30));
+        lp.add(jb1,JLayeredPane.DEFAULT_LAYER);            
+        lp.add(jb2,JLayeredPane.POPUP_LAYER);
+        lp.add(jb3,JLayeredPane.PALETTE_LAYER);
 
         add(lp);
 ;

@@ -37,7 +37,8 @@ public class LOGINFORM {
         
         jb.addActionListener((ActionEvent e)->{
         System.out.println("Username : "+ tf1.getText());
-        System.out.println("Pass : "+jp.getText());
+        String password = new String(jp.getPassword());
+        System.out.println("Pass : "+password);
     });
 
         jf.add(jl1);
