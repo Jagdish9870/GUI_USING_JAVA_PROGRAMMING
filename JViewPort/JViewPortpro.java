@@ -53,7 +53,7 @@ public class JViewPortpro   {
             
         });
         mDown.addActionListener((ActionEvent e2)->{
-             Point Xorigin=vp.getViewPosition();
+            Point Xorigin=vp.getViewPosition();
             Point x1=new Point(Xorigin.x,Xorigin.y+100);
             vp.setViewPosition(x1);
         });
