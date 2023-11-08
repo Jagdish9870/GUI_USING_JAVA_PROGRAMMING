@@ -1,7 +1,6 @@
 package JFrame_creation_Ways;
 
 import javax.swing.*;
-
 public class JFramePro4  {
 
     JFramePro4(){
