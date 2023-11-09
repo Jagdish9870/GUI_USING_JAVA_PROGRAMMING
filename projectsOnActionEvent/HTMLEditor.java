@@ -6,13 +6,11 @@ import java.awt.event.ActionEvent;
 
 import javax.swing.*;
 
-
-
 class Frame24 extends JFrame{
     JEditorPane ep;
         Frame24(){
         setBounds(200, 200, 600, 400);  
-        ep= new JEditorPane();   // editor have inbuilt wrapper function..............unlike jTextArea....
+        ep= new JEditorPane();   // editor have inbuilt wrapper function..............unlike jTextArea...
         ep.setContentType("Text/html");
         String str="<html> "+"<ol>"+ "<li><h1 color='red'>Java</h1></li>"+"<li>JSP</li>"+"</ol>" +"</html> ";
         ep.setText(str);

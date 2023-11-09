@@ -2,9 +2,7 @@ package projectsOnActionEvent;
 
 import java.awt.Color;
 import java.awt.Container;
-
 import javax.swing.JFrame;
-
 public class ContainerProg {
     public static void main(String[] args) {
         JFrame jf = new JFrame();
