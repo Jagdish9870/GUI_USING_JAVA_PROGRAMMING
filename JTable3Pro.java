@@ -1,15 +1,19 @@
 
 import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JTextArea;
+import javax.swing.ListSelectionModel;
+import javax.swing.table.DefaultTableModel;
 
 
 // for the updatation of new row
@@ -20,12 +24,12 @@ class frame14 extends JFrame {
     public frame14(){
         setBounds(200, 200, 600, 400);  
         setVisible(true);
-        setDefaultCloseOperation(frame14.EXIT_ON_CLOSE);
+        
         
 
         Object[][] data= {
             {001,"ram","CSE"},
-            {002,"shyam","EcE"}
+            {002,"shyam","ECE"}
         };
         String[] columNames={ "roll","Name","Course"};
         
@@ -66,22 +70,10 @@ class frame14 extends JFrame {
         
         
         setVisible(true);
-        // jb.addActionListener((ActionEvent e)->{
-
-        //     int Roll= Integer.parseInt(ta.getText());
-        //     String Name=ta2.getText();
-        //     String Course=ta3.getText();
-
-        //      Object[] newRow={Roll,Name,Course};
-        //      t.insertRow(newRow);
-        //      ta.setText(null);
-        //       ta2.setText(null);
-        //        ta3.setText(null);
-
-        // });
+        
       t.addMouseListener(new MouseAdapter() {
         public void mouseClicked(MouseEvent m){
-            int rowIndex=model.getSelectedRow();
+            int rowIndex=t.getSelectedRow();
             int roll= (int)model.getValueAt(rowIndex, 0);
             String name=(String)model.getValueAt(rowIndex,1);
             String course=(String)model.getValueAt(rowIndex,2);
@@ -94,12 +86,52 @@ class frame14 extends JFrame {
 
         }
       });
+
+      jb2.addActionListener((ActionEvent e)->{
+
+            int Roll= Integer.parseInt(ta.getText());
+            String Name=ta2.getText();
+            String Course=ta3.getText();
+
+            int row=t.getSelectedRow();
+            model.setValueAt(Roll,row,0);
+            model.setValueAt(Name,row,1);
+            model.setValueAt(Course,row,2);
+            
+             ta.setText(null);
+              ta2.setText(null);
+               ta3.setText(null);
+
+        });
+
+        // to delete a row
+
+        jb3.addActionListener((ActionEvent e)->{
+
+            if(t.getSelectedRow()==-1){
+                JOptionPane.showMessageDialog(this,"Please select the row");
+            }
+            // confirm if you really want to delete
+            int sel=JOptionPane.showConfirmDialog(null, "Do you want to delete", "confirm", JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.QUESTION_MESSAGE);
+            if(sel==JOptionPane.YES_OPTION)
+            {
+
+                model.removeRow(t.getSelectedRow());
+                 ta.setText(null);
+              ta2.setText(null);
+               ta3.setText(null);
+
+            }
+
+        });
+        t.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
     }
 }
 
 public class JTable3Pro {
     public static void main(String[] args) {
         frame14 f= new frame14();
+        f.setDefaultCloseOperation(frame14.EXIT_ON_CLOSE);
         
 
 
