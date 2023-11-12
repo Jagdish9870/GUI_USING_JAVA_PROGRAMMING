@@ -59,15 +59,6 @@ import javax.swing.*;
 
 
 
-
-
-
-
-
-
-
-
-
         repaint();
 
 
