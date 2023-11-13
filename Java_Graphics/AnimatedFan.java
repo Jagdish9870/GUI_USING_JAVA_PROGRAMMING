@@ -44,9 +44,6 @@ import javax.swing.*;
 
         angle=angle-30;
 
-
-        
-
         try {
             Thread.sleep(40);
         } catch (InterruptedException e) {
