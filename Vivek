@@ -1,0 +1,761 @@
+Hh<html lang="en-US" data-reactroot="">
+ <head>
+  <link rel="icon" type="image/x-icon" href="https://d2543nuuc0wvdg.cloudfront.net/favicon.ico">
+  <title data-react-helmet="true">Feequze</title>
+  <meta data-react-helmet="true" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta data-react-helmet="true" name="robots" content="noindex">
+  <meta data-react-helmet="true" name="title" content="Feequze">
+  <meta data-react-helmet="true" name="description">
+  <meta data-react-helmet="true" name="author">
+  <meta data-react-helmet="true" name="keywords">
+  <meta data-react-helmet="true" property="og:image" content="%BLOG_POST_IMAGE_URL%">
+  <meta data-react-helmet="true" property="og:image:alt" content="Feequze">
+  <meta data-react-helmet="true" property="og:title" content="Feequze">
+  <meta data-react-helmet="true" property="og:description" content="">
+  <meta data-react-helmet="true" property="og:url" content="https://www.rewardsfire.in/2dcartoonbundle">
+  <style data-styled="ihPqbS joxkHw fNRrzB bvooQO kCoTLU heaEQU bKUMjE hLgixF gTAOia jXCitA cCIdHo jMnzyL bhmqWK rNFYm kOWMaB fAuPji koBbPD qelVY dNtwED fUROeE dCHtJa dMtYyJ jCYVbf jrZUmL bbSRcs dnqpEI xOFnO sLBOy kxCIFs cwIRjW jFlOdf llYpjx bnxIWX fVzaxl iVnFgS huxJiB ceZisE fSIqLd dJMrYA dCJjvE geEEyI iwGufe iPsXCq ddbwrY gRWuSP emSdkO gvBvPU kBINUF NtIXI dSBkgw kHJHSy jxtBdC gbKmAM bbbwCk hfzRaR cFovVr hparKl cMUzJy eTBBwg kFABAu hkqEdo eiEYVi gGALTs dRMQzI fYGiNX cvuqY gUKmRj jTZwCJ kqTSuT fwpfkH bPSDDy jKiQQw dxCpoI irXoXG fRoEdW bbHtIb hUlXeb dXadKn flguYx hKoVgY cxKOER quZXr hHIXIY ivqInH eApiRj dRppFh dnGISm eqTWgv doESuE hhOIXb gUTrHW biGvaY gzssjc bBhOGd ifXxJZ gGLeZp imjMGX cLHuNk gevNDK kOawiM ccPtqQ cgpnIF bCeJUD dqQhnN dxbcqG TiamF dvEikk jhZdkB yLIqQ gWlzGj jjhoUo bEvQqn cDKHAG eGqvRD hjTpHq eWiiJs kIVkpm dKmTz jHzZXm ilWJSz eqoTOr cZmkQ kBaazy euAEVn fiLlFs kYZPlp gXKCmg dQSZIB dLdVIW fYUGFK" data-styled-version="4.4.0">
+/* sc-component-id: sc-global-1998913337 */
+html{box-sizing:border-box;-webkit-scroll-behavior:smooth;-moz-scroll-behavior:smooth;-ms-scroll-behavior:smooth;scroll-behavior:smooth;} body{margin:0;} a{-webkit-text-decoration:none;text-decoration:none;} p{margin:0;} *,*:before,*:after{box-sizing:inherit;} *{-webkit-font-smoothing:antialiased;} h1,h2,h3,h4,h5,h6{margin:0;font-weight:normal;} section h1{margin:0;} button,input{margin:0;font-family:unset;} ul{margin:0;} .fixed{position:fixed;top:0px;left:0px;width:320px;height:50px;background:red;-webkit-backface-visibility:hidden;}
+/* sc-component-id: sc-bdVaJa */
+.dKmTz{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;color:#fff;font-family:inherit;font-weight:inherit;font-style:inherit;background:rgba(1,116,199,1);border:none;text-align:center;padding:9px 25px;cursor:pointer;opacity:1;word-break:break-word;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;outline:none;display:inline-block;-webkit-text-decoration:none;text-decoration:none;box-sizing:border-box;color:rgba(0,0,0,1);width:100%;padding:15px 150px 15px 150px;font-size:25px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;background:rgba(248,231,28,1);line-height:75px;border-color:rgba(255,255,255,1);border-style:solid;border-width:2px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;} .dKmTz:disabled{cursor:default;opacity:0.7;} .dKmTz:hover{color:rgba(0,0,0,1);} @media only screen and (max-width:800px){.dKmTz{width:100%;padding:5px 5px 5px 5px;font-size:30px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;box-shadow:none;background:rgba(248,231,28,1);line-height:40px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;}}.jHzZXm{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;color:#fff;font-family:inherit;font-weight:inherit;font-style:inherit;background:rgba(1,116,199,1);border:none;text-align:center;padding:9px 25px;cursor:pointer;opacity:1;word-break:break-word;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;outline:none;display:inline-block;-webkit-text-decoration:none;text-decoration:none;box-sizing:border-box;color:rgba(0,0,0,1);width:100%;padding:15px 150px 15px 150px;font-size:29px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;background:rgba(248,231,28,1);line-height:75px;border-color:rgba(0,0,0,1);border-style:solid;border-width:2px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;} .jHzZXm:disabled{cursor:default;opacity:0.7;} .jHzZXm:hover{color:rgba(0,0,0,1);} @media only screen and (max-width:800px){.jHzZXm{width:100%;padding:5px 5px 5px 5px;font-size:25px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;box-shadow:none;background:rgba(248,231,28,1);border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;}}.ilWJSz{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;color:#fff;font-family:inherit;font-weight:inherit;font-style:inherit;background:rgba(1,116,199,1);border:none;text-align:center;padding:9px 25px;cursor:pointer;opacity:1;word-break:break-word;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;outline:none;display:inline-block;-webkit-text-decoration:none;text-decoration:none;box-sizing:border-box;color:rgba(0,0,0,1);width:100%;padding:15px 119px 15px 119px;font-size:29px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;background:rgba(248,231,28,1);line-height:75px;border-color:rgba(0,0,0,1);border-style:solid;border-width:2px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;} .ilWJSz:disabled{cursor:default;opacity:0.7;} .ilWJSz:hover{color:rgba(0,0,0,1);} @media only screen and (max-width:800px){.ilWJSz{width:100%;padding:5px 5px 5px 5px;font-size:35px;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;box-shadow:none;background:rgba(248,231,28,1);line-height:45px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;}}
+/* sc-component-id: sc-bwzfXH */
+.eqoTOr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}
+/* sc-component-id: sc-fMiknA */
+.kBaazy{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-style:solid;border-width:1px;border-color:rgba(68,68,68,1);} @media only screen and (max-width:800px){}
+/* sc-component-id: sc-kjoXOD */
+.cgpnIF{position:relative;padding-top:56.25%;} .cgpnIF 'video::-internal-media-controls-download-button'{display:none;} .cgpnIF 'video::-webkit-media-controls-enclosure'{overflow:hidden;} .cgpnIF 'video::-webkit-media-controls-panel'{width:calc(100% + 30px);} .cgpnIF .react-player{position:absolute;top:0;left:0;overflow:hidden;border-radius:8px;border-style:solid;border-width:5px;border-color:rgba(245,166,35,1);} @media only screen and (max-width:800px){.cgpnIF .react-player{border-style:solid;border-width:3px;border-color:rgba(245,166,35,1);}}.bCeJUD{position:relative;padding-top:56.25%;} .bCeJUD 'video::-internal-media-controls-download-button'{display:none;} .bCeJUD 'video::-webkit-media-controls-enclosure'{overflow:hidden;} .bCeJUD 'video::-webkit-media-controls-panel'{width:calc(100% + 30px);} .bCeJUD .react-player{position:absolute;top:0;left:0;overflow:hidden;border-radius:8px;border-style:solid;border-width:3px;border-color:rgba(245,166,35,1);} @media only screen and (max-width:800px){}.dqQhnN{position:relative;padding-top:56.25%;} .dqQhnN 'video::-internal-media-controls-download-button'{display:none;} .dqQhnN 'video::-webkit-media-controls-enclosure'{overflow:hidden;} .dqQhnN 'video::-webkit-media-controls-panel'{width:calc(100% + 30px);} .dqQhnN .react-player{position:absolute;top:0;left:0;overflow:hidden;border-radius:8px;border-style:solid;border-width:3px;border-color:rgba(0,0,0,0.5);} @media only screen and (max-width:800px){}
+/* sc-component-id: sc-btzYZH */
+.fNRrzB{position:absolute;z-index:0;height:100%;width:100%;top:0;left:0;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;z-index:-1;-webkit-filter:blur(0px);filter:blur(0px);background-image:none;} @media only screen and (max-width:800px){.fNRrzB{background-image:none;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;}} @media only screen and (min-device-width:768px) and (max-device-width:1024px){}
+/* sc-component-id: sc-lhVmIH */
+.joxkHw{position:relative;width:100%;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;} @media only screen and (max-width:800px){.joxkHw{background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;width:100%;}}
+/* sc-component-id: sc-krDsej */
+.kIVkpm{font-size:30px;color:rgba(255,0,31,1);} @media only screen and (max-width:800px){.kIVkpm{font-size:24px;color:rgba(255,0,31,1);}}
+/* sc-component-id: sc-dTdPqK */
+.hjTpHq{font-weight:bold;font-size:30px;color:rgba(255,0,31,1);} @media only screen and (max-width:800px){.hjTpHq{font-size:24px;color:rgba(255,0,31,1);}}
+/* sc-component-id: sc-itybZL */
+.eWiiJs{text-transform:uppercase;font-size:30px;color:rgba(255,255,255,1);} @media only screen and (max-width:800px){.eWiiJs{font-size:20px;color:rgba(255,255,255,1);}}
+/* sc-component-id: sc-eMigcr */
+.eGqvRD{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:0 5px;}
+/* sc-component-id: sc-fzsDOv */
+.cDKHAG{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;} @media only screen and (max-width:800px){}
+/* sc-component-id: sc-eInJlc */
+.hHIXIY{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:35px;font-family:Poppins;font-weight:700;font-style:normal;-webkit-letter-spacing:0px;-moz-letter-spacing:0px;-ms-letter-spacing:0px;letter-spacing:0px;text-align:center;line-height:50px;background-color:rgba(0,0,0,0);} .hHIXIY a{color:rgba(20,158,252,1);} .hHIXIY a > span{color:rgba(20,158,252,1);} .hHIXIY a:hover{box-shadow:inset 0 -1px 0;} .hHIXIY a > span:hover{box-shadow:inset 0 -1px 0;} .hHIXIY h1,.hHIXIY h2,.hHIXIY h3,.hHIXIY h4,.hHIXIY h5,.hHIXIY h6{font-size:35px;font-family:Poppins;font-weight:700;font-style:normal;-webkit-letter-spacing:0px;-moz-letter-spacing:0px;-ms-letter-spacing:0px;letter-spacing:0px;text-align:center;line-height:50px;} @media only screen and (max-width:800px){.hHIXIY{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:35px;font-family:Poppins;line-height:40px;}.hHIXIY h1,.hHIXIY h2,.hHIXIY h3,.hHIXIY h4,.hHIXIY h5,.hHIXIY h6{font-size:35px;font-family:Poppins;line-height:40px;}}.ivqInH{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:25px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:600;font-style:normal;text-align:center;line-height:37px;padding-top:10px;} .ivqInH a{color:rgba(20,158,252,1);} .ivqInH a > span{color:rgba(20,158,252,1);} .ivqInH a:hover{box-shadow:inset 0 -1px 0;} .ivqInH a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.ivqInH{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:23px;-webkit-letter-spacing:0px;-moz-letter-spacing:0px;-ms-letter-spacing:0px;letter-spacing:0px;line-height:35px;}}.eApiRj{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:20px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;} .eApiRj a{color:rgba(20,158,252,1);} .eApiRj a > span{color:rgba(20,158,252,1);} .eApiRj a:hover{box-shadow:inset 0 -1px 0;} .eApiRj a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.eApiRj{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:24px;line-height:35px;background-color:rgba(245,166,35,1);}}.dRppFh{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:30px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:700;font-style:normal;text-align:center;} .dRppFh a{color:rgba(20,158,252,1);} .dRppFh a > span{color:rgba(20,158,252,1);} .dRppFh a:hover{box-shadow:inset 0 -1px 0;} .dRppFh a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.dRppFh{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:20px;}}.dnGISm{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:50px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;background-color:rgba(0,0,0,0);} .dnGISm a{color:rgba(20,158,252,1);} .dnGISm a > span{color:rgba(20,158,252,1);} .dnGISm a:hover{box-shadow:inset 0 -1px 0;} .dnGISm a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.dnGISm{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:30px;line-height:40px;}}.eqTWgv{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:39px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:700;font-style:normal;text-align:center;} .eqTWgv a{color:rgba(20,158,252,1);} .eqTWgv a > span{color:rgba(20,158,252,1);} .eqTWgv a:hover{box-shadow:inset 0 -1px 0;} .eqTWgv a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.eqTWgv{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:20px;}}.doESuE{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:45px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:700;font-style:normal;text-align:center;background-color:rgba(255,0,0,1);} .doESuE a{color:rgba(20,158,252,1);} .doESuE a > span{color:rgba(20,158,252,1);} .doESuE a:hover{box-shadow:inset 0 -1px 0;} .doESuE a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.doESuE{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:20px;background-color:rgba(255,0,0,1);}}.hhOIXb{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:39px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:600;font-style:normal;text-align:center;} .hhOIXb a{color:rgba(20,158,252,1);} .hhOIXb a > span{color:rgba(20,158,252,1);} .hhOIXb a:hover{box-shadow:inset 0 -1px 0;} .hhOIXb a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.hhOIXb{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:30px;}}.gUTrHW{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:36px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:700;font-style:normal;text-align:center;} .gUTrHW a{color:rgba(20,158,252,1);} .gUTrHW a > span{color:rgba(20,158,252,1);} .gUTrHW a:hover{box-shadow:inset 0 -1px 0;} .gUTrHW a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.gUTrHW{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:25px;font-family:Poppins;font-weight:600;font-style:normal;}}.biGvaY{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:71px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;} .biGvaY a{color:rgba(20,158,252,1);} .biGvaY a > span{color:rgba(20,158,252,1);} .biGvaY a:hover{box-shadow:inset 0 -1px 0;} .biGvaY a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.biGvaY{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:22px;background-color:rgba(245,166,35,1);}}.gzssjc{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:46px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;} .gzssjc a{color:rgba(20,158,252,1);} .gzssjc a > span{color:rgba(20,158,252,1);} .gzssjc a:hover{box-shadow:inset 0 -1px 0;} .gzssjc a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.gzssjc{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:22px;background-color:rgba(245,166,35,1);}}.bBhOGd{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:80px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;line-height:91px;background-color:rgba(245,166,35,1);} .bBhOGd a{color:rgba(20,158,252,1);} .bBhOGd a > span{color:rgba(20,158,252,1);} .bBhOGd a:hover{box-shadow:inset 0 -1px 0;} .bBhOGd a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.bBhOGd{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:22px;line-height:30px;background-color:rgba(245,166,35,1);}}.ifXxJZ{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:60px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;line-height:91px;background-color:rgba(245,166,35,1);} .ifXxJZ a{color:rgba(20,158,252,1);} .ifXxJZ a > span{color:rgba(20,158,252,1);} .ifXxJZ a:hover{box-shadow:inset 0 -1px 0;} .ifXxJZ a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.ifXxJZ{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:20px;line-height:30px;background-color:rgba(245,166,35,1);}}.gGLeZp{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:70px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;background-color:rgba(245,166,35,1);} .gGLeZp a{color:rgba(20,158,252,1);} .gGLeZp a > span{color:rgba(20,158,252,1);} .gGLeZp a:hover{box-shadow:inset 0 -1px 0;} .gGLeZp a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.gGLeZp{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:25px;background-color:rgba(245,166,35,1);}}.imjMGX{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:20px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:300;font-style:normal;text-align:left;} .imjMGX a{color:rgba(20,158,252,1);} .imjMGX a > span{color:rgba(20,158,252,1);} .imjMGX a:hover{box-shadow:inset 0 -1px 0;} .imjMGX a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.imjMGX{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;}}.cLHuNk{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:20px;color:rgba(0,0,0,1);font-family:Poppins;text-align:left;} .cLHuNk a{color:rgba(20,158,252,1);} .cLHuNk a > span{color:rgba(20,158,252,1);} .cLHuNk a:hover{box-shadow:inset 0 -1px 0;} .cLHuNk a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.cLHuNk{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;}}.gevNDK{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:65px;font-family:Poppins;font-weight:700;font-style:normal;text-align:center;line-height:38.4px;} .gevNDK a{color:rgba(20,158,252,1);} .gevNDK a > span{color:rgba(20,158,252,1);} .gevNDK a:hover{box-shadow:inset 0 -1px 0;} .gevNDK a > span:hover{box-shadow:inset 0 -1px 0;} .gevNDK h1,.gevNDK h2,.gevNDK h3,.gevNDK h4,.gevNDK h5,.gevNDK h6{font-size:65px;font-family:Poppins;font-weight:700;font-style:normal;text-align:center;line-height:38.4px;} @media only screen and (max-width:800px){.gevNDK{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:24px;font-family:Poppins;line-height:28.8px;}.gevNDK h1,.gevNDK h2,.gevNDK h3,.gevNDK h4,.gevNDK h5,.gevNDK h6{font-size:24px;font-family:Poppins;line-height:28.8px;}}.kOawiM{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:60px;color:rgba(0,0,0,1);font-family:Poppins;font-weight:700;font-style:normal;text-align:center;} .kOawiM a{color:rgba(20,158,252,1);} .kOawiM a > span{color:rgba(20,158,252,1);} .kOawiM a:hover{box-shadow:inset 0 -1px 0;} .kOawiM a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.kOawiM{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:24px;line-height:37px;}}.ccPtqQ{word-break:break-word;-webkit-transition:box-shadow 0.1s ease-in-out;transition:box-shadow 0.1s ease-in-out;font-size:14px;color:rgba(0,0,0,1);font-family:Poppins;text-align:center;} .ccPtqQ a{color:rgba(20,158,252,1);} .ccPtqQ a > span{color:rgba(20,158,252,1);} .ccPtqQ a:hover{box-shadow:inset 0 -1px 0;} .ccPtqQ a > span:hover{box-shadow:inset 0 -1px 0;} @media only screen and (max-width:800px){.ccPtqQ{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-size:16px;font-family:Poppins;font-weight:400;font-style:normal;}}
+/* sc-component-id: sc-gpHHfC */
+.gWlzGj{display:block;max-width:100%;object-fit:contain;width:201px;border-radius:0px;} @media only screen and (max-width:800px){.gWlzGj{width:130px;}}.jjhoUo{display:block;max-width:100%;object-fit:contain;width:285px;box-shadow:0 0 25px rgba(0,0,0,0.2),0 0 15px rgba(0,0,0,0.2),0 0 3px rgba(0,0,0,0.4);} @media only screen and (max-width:800px){.jjhoUo{width:300px;}}.bEvQqn{display:block;max-width:100%;object-fit:contain;width:360px;border-style:solid;border-width:1px;border-color:rgba(245,166,35,1);} @media only screen and (max-width:800px){}
+/* sc-component-id: sc-gVyKpa */
+.dxbcqG{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;} @media only screen and (max-width:800px){}
+/* sc-component-id: sc-eXNvrr */
+.TiamF{position:relative;display:block;height:0;overflow:visible;padding-bottom:116.28%;}.dvEikk{position:relative;display:block;height:0;overflow:visible;padding-bottom:100.00%;}.jhZdkB{position:relative;display:block;height:0;overflow:visible;padding-bottom:217.39%;}.yLIqQ{position:relative;display:block;height:0;overflow:visible;padding-bottom:212.77%;}
+/* sc-component-id: sc-cjHlYL */
+.cZmkQ{min-height:20px;}
+/* sc-component-id: sc-fEUNkw */
+.kHJHSy{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:10px 10px 0px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.kHJHSy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.jxtBdC{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:0px 0px 0px 0px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:30px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.jxtBdC{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.gbKmAM{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:0px 0px 0px 0px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.gbKmAM{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:0px 0px 0px 0px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;}}.bbbwCk{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:10px 10px 10px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:25px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-color:rgba(245,166,35,1);background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.bbbwCk{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:15px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-color:rgba(245,166,35,1);background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.hfzRaR{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);padding:15px 10px 15px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.hfzRaR{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.cFovVr{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:10px 10px 10px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.cFovVr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.hparKl{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);padding:10px 10px 10px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.hparKl{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.cMUzJy{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:10px 10px 10px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-image:none;} @media only screen and (max-width:800px){.cMUzJy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;}}.eTBBwg{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);padding:10px 80px 10px 80px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.eTBBwg{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.kFABAu{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:0px 10px 5px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.kFABAu{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.hkqEdo{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);padding:10px 160px 10px 160px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.hkqEdo{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.eiEYVi{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:0px 150px 10px 150px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.eiEYVi{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.gGALTs{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:0px 0px 0px 0px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.gGALTs{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.dRMQzI{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:0px 150px 0px 150px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.dRMQzI{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-size:initial;background-repeat:repeat;background-position:50% 50%;background-attachment:initial;}}.fYGiNX{display:grid;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;grid-template-columns:repeat(12,1fr);-webkit-column-gap:unset !important;column-gap:unset !important;padding:0px 10px 0px 10px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;background-image:none;} @media only screen and (max-width:800px){.fYGiNX{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-template-columns:auto;padding:5px 5px 5px 5px;-webkit-column-gap:20px;column-gap:20px;margin-top:0px;margin-left:0px;margin-right:0px;margin-bottom:0px;}}
+/* sc-component-id: sc-eLdqWK */
+.NtIXI{max-width:1120px;width:100%;margin:auto;background-color:transparent;} @media only screen and (max-width:800px){.NtIXI{background-color:transparent;}}.dSBkgw{width:100%;margin:auto;background-color:transparent;} @media only screen and (max-width:800px){.dSBkgw{background-color:transparent;}}
+/* sc-component-id: sc-iiUIRa */
+.huxJiB{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:40px 40px 29px 40px;background-size:cover;background-color:rgba(19,18,63,1);background-repeat:no-repeat;background-position:50% 50%;background-attachment:fixed;background-image:none;} @media only screen and (max-width:800px){.huxJiB{background-repeat:no-repeat;background-attachment:scroll;background-size:cover;background-position:center center;width:100%;padding:40px 20px 10px 20px;background-size:cover;background-color:rgba(19,18,63,1);background-repeat:no-repeat;background-position:50% 50%;background-attachment:fixed;background-image:none;}}.ceZisE{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 40px 15px 40px;background-size:initial;background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.ceZisE{width:100%;padding:0px 5px 5px 5px;background-size:initial;background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.fSIqLd{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 85px 0px 85px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.fSIqLd{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.dJMrYA{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 0px 0px 0px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.dJMrYA{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.dCJjvE{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 16px 0px 16px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.dCJjvE{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.geEEyI{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 150px 5px 150px;background-size:initial;background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.geEEyI{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.iwGufe{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:15px 40px 5px 40px;background-size:initial;background-color:rgba(255,255,255,1);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.iwGufe{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-color:rgba(255,255,255,1);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.iPsXCq{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 160px 20px 160px;background-size:initial;background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.iPsXCq{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.ddbwrY{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 10px 0px 10px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.ddbwrY{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.gRWuSP{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 40px 0px 40px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.gRWuSP{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.emSdkO{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:5px 40px 10px 40px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.emSdkO{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.gvBvPU{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0px 40px 10px 40px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.gvBvPU{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-repeat:no-repeat;background-position:50% 50%;background-attachment:initial;background-image:none;}}.kBINUF{position:static;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:20px 40px 20px 40px;background-size:initial;background-color:rgba(57,31,136,1);background-repeat:no-repeat;background-position:50% 0%;background-attachment:initial;background-image:none;} @media only screen and (max-width:800px){.kBINUF{width:100%;padding:5px 5px 5px 5px;background-size:initial;background-color:rgba(57,31,136,1);background-repeat:no-repeat;background-position:50% 0%;background-attachment:initial;background-image:none;}}
+/* sc-component-id: sc-cpHetk */
+.euAEVn{display:grid;grid-gap:10px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;} @media only screen and (max-width:800px){.euAEVn{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}}
+/* sc-component-id: sc-nrwXf */
+.gXKCmg{color:rgba(24,24,24,1);-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);display:inline-block;} @media only screen and (max-width:800px){.gXKCmg{display:inline-block;}} @media only screen and (max-width:800px){}
+/* sc-component-id: sc-eitiEO */
+.dQSZIB{height:0;overflow:hidden;}
+/* sc-component-id: sc-bhlBdH */
+.kYZPlp{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:16px;color:rgba(24,24,24,1);font-family:Poppins;font-weight:700;font-style:normal;cursor:pointer;} @media only screen and (max-width:800px){.kYZPlp{font-size:16px;}}
+/* sc-component-id: sc-AnqlK */
+.fiLlFs{border-radius:5px;background-color:rgba(241,244,248,1);padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:20px;} @media only screen and (max-width:800px){.fiLlFs{padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:20px;}}
+/* sc-component-id: sc-iFUGim */
+.fYUGFK{position:absolute;left:40px;top:5px;font-size:11px;color:#ffffff;font-family:Arial,sans-serif;}
+/* sc-component-id: sc-cNQqM */
+.dLdVIW{width:165px;height:38px;background-image:url(https://d3syewzhvzylbl.cloudfront.net/images/affiliate_badge_logo.png);background-size:cover;padding:3px 0;position:fixed;bottom:4px;right:0;z-index:3;}
+/* sc-component-id: sc-eqPNPO */
+.cvuqY{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:13;} @media only screen and (max-width:800px){.cvuqY{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .cvuqY video{object-fit:contain !important;}.gUKmRj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:5;} @media only screen and (max-width:800px){.gUKmRj{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .gUKmRj video{object-fit:contain !important;}.jTZwCJ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:5;grid-column-end:9;} @media only screen and (max-width:800px){.jTZwCJ{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .jTZwCJ video{object-fit:contain !important;}.kqTSuT{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:9;grid-column-end:13;} @media only screen and (max-width:800px){.kqTSuT{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .kqTSuT video{object-fit:contain !important;}.fwpfkH{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:7;} @media only screen and (max-width:800px){.fwpfkH{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .fwpfkH video{object-fit:contain !important;}.bPSDDy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:7;grid-column-end:13;} @media only screen and (max-width:800px){.bPSDDy{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .bPSDDy video{object-fit:contain !important;}.jKiQQw{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:1;grid-column-end:4;} @media only screen and (max-width:800px){.jKiQQw{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .jKiQQw video{object-fit:contain !important;}.dxCpoI{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:4;grid-column-end:7;} @media only screen and (max-width:800px){.dxCpoI{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .dxCpoI video{object-fit:contain !important;}.irXoXG{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:7;grid-column-end:10;} @media only screen and (max-width:800px){.irXoXG{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .irXoXG video{object-fit:contain !important;}.fRoEdW{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;grid-column-start:10;grid-column-end:13;} @media only screen and (max-width:800px){.fRoEdW{width:100%;grid-column-start:1;grid-column-end:12;padding-left:0;padding-right:0;}} .fRoEdW video{object-fit:contain !important;}
+/* sc-component-id: sc-ileJJU */
+.bvooQO{position:relative;id:section-965f769a;margin-top:0px;} @media only screen and (max-width:800px){}.kCoTLU{position:relative;} @media only screen and (max-width:800px){}.heaEQU{position:relative;margin-top:25px;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.heaEQU{margin-top:15px;margin-left:0;margin-right:0;margin-bottom:10px;}}.bKUMjE{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.bKUMjE{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.hLgixF{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.hLgixF{margin-top:8px;margin-left:0;margin-right:0;margin-bottom:8px;}}.gTAOia{position:relative;margin-top:25px;margin-left:0px;margin-bottom:0px;margin-right:0px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;} @media only screen and (max-width:800px){.gTAOia{margin-top:15px;margin-left:0px;margin-bottom:15px;margin-right:0px;}}.jXCitA{position:relative;margin-top:30px;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.jXCitA{margin-top:10px;margin-left:0;margin-right:0;margin-bottom:0;}}.cCIdHo{position:relative;margin-top:30px;margin-left:25px;margin-right:25px;margin-bottom:25px;} @media only screen and (max-width:800px){.cCIdHo{margin-top:15px;margin-left:0;margin-right:0;margin-bottom:15px;}}.jMnzyL{position:relative;text-align:center;margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;} @media only screen and (max-width:800px){.jMnzyL{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}}.bhmqWK{position:relative;margin-top:32px;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.bhmqWK{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.rNFYm{position:relative;margin-top:25px;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.rNFYm{margin-top:5px;margin-left:0;margin-right:0;margin-bottom:10px;}}.kOWMaB{position:relative;id:section-7f37cde6;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.kOWMaB{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.fAuPji{position:relative;margin-top:-11px;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.fAuPji{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.koBbPD{position:relative;id:section-c9cf3e9e;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.koBbPD{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.qelVY{position:relative;id:section-fd38f58c;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.qelVY{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.dNtwED{position:relative;margin-top:-3px;margin-left:50px;margin-right:50px;margin-bottom:-3px;} @media only screen and (max-width:800px){.dNtwED{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.fUROeE{position:relative;id:section-b698aaa2;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.fUROeE{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.dCHtJa{position:relative;id:section-db9f51d7;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.dCHtJa{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.dMtYyJ{position:relative;margin-top:25px;margin-left:0px;margin-bottom:0px;margin-right:0px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:relative;} @media only screen and (max-width:800px){.dMtYyJ{margin-top:10px;margin-left:0px;margin-bottom:10px;margin-right:0px;}}.jCYVbf{position:relative;id:section-11fe5713;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.jCYVbf{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.jrZUmL{position:relative;margin-top:-10px;margin-left:110px;margin-right:110px;margin-bottom:0;} @media only screen and (max-width:800px){.jrZUmL{margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;}}.bbSRcs{position:relative;id:section-96250d52;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.bbSRcs{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.dnqpEI{position:relative;id:section-28a3a052;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.dnqpEI{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.xOFnO{position:relative;id:section-370fa27e;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.xOFnO{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.sLBOy{position:relative;id:section-2d7ffc69;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.sLBOy{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.kxCIFs{position:relative;id:section-5505f183;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.kxCIFs{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.cwIRjW{position:relative;id:section-f8f52984;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.cwIRjW{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.jFlOdf{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.jFlOdf{margin-top:5px;margin-left:0;margin-right:0;margin-bottom:5px;}}.llYpjx{position:relative;id:section-cdf28b99;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.llYpjx{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.bnxIWX{position:relative;id:section-668f4c39;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.bnxIWX{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.fVzaxl{position:relative;id:section-623633ea;margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;} @media only screen and (max-width:800px){.fVzaxl{margin-top:0px;margin-left:0px;margin-bottom:0px;margin-right:0px;}}.iVnFgS{position:relative;margin-top:0;margin-left:0;margin-right:0;margin-bottom:0;} @media only screen and (max-width:800px){.iVnFgS{margin-top:10px;margin-left:0;margin-right:0;margin-bottom:10px;}}
+/* sc-component-id: sc-fAJaQT */
+.bbHtIb{position:relative;text-align:initial;margin:0px 0px 0px 0px;} @media only screen and (max-width:800px){.bbHtIb{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.hUlXeb{position:relative;text-align:initial;margin:10px 10px 10px 10px;} @media only screen and (max-width:800px){.hUlXeb{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.dXadKn{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:-70px 34px -75px 50px;} @media only screen and (max-width:800px){.dXadKn{margin-top:-40px;margin-right:0px;margin-bottom:-40px;margin-left:0px;}}.flguYx{position:relative;text-align:initial;margin:0px 0px 0px 0px;} @media only screen and (max-width:800px){.flguYx{margin-top:15px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.hKoVgY{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:0px 0px 0px 0px;} @media only screen and (max-width:800px){.hKoVgY{margin-top:0px;margin-right:0px;margin-bottom:15px;margin-left:0px;}}.cxKOER{position:relative;text-align:initial;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin:0px 0px 0px 0px;} @media only screen and (max-width:800px){.cxKOER{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.quZXr{position:relative;text-align:initial;margin:15px 0px 15px 0px;} @media only screen and (max-width:800px){.quZXr{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}
+/* sc-component-id: sc-eQGPmX */
+.ihPqbS{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;height:100%;min-height:100vh;position:relative;font-family:Poppins;font-weight:700;font-style:normal;}</style>
+  <link data-react-helmet="true" rel="canonical" href="https://www.rewardsfire.in/2dcartoonbundle">
+  <style type="text/css">
+          @font-face {
+            font-family: "Poppins";
+            font-style: normal;
+            font-weight: 400;
+            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/poppins/regular.woff2) format('woff2');
+          }
+        
+
+          @font-face {
+            font-family: "Poppins";
+            font-style: normal;
+            font-weight: 700;
+            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/poppins/700.woff2) format('woff2');
+          }
+        
+
+          @font-face {
+            font-family: "Poppins";
+            font-style: normal;
+            font-weight: 600;
+            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/poppins/600.woff2) format('woff2');
+          }
+        
+
+          @font-face {
+            font-family: "Poppins";
+            font-style: normal;
+            font-weight: 300;
+            src: url(https://d3syewzhvzylbl.cloudfront.net/fonts/google-fonts/poppins/300.woff2) format('woff2');
+          }
+        </style> 
+  <link rel="stylesheet" href="https://d3fit27i5nzkqh.cloudfront.net/assets/css/all.min.css">
+ </head>
+ <body>
+  <div id="app">
+   <div class="sc-eQGPmX ihPqbS">
+    <div class="sc-lhVmIH joxkHw">
+     <div class="sc-btzYZH fNRrzB"></div>
+     <div class="sc-ileJJU bvooQO">
+      <section id="section-965f769a" class="sc-iiUIRa huxJiB">
+       <div width="wide" class="sc-eLdqWK NtIXI">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-9ac9d231" class="sc-fEUNkw kHJHSy">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-fAJaQT bbHtIb">
+            <div id="headline-c32f00d3" font-size="35" font-family="Poppins" font-style="normal" font-weight="700" letter-spacing="0" class="sc-eInJlc hHIXIY">
+             <p dir="ltr"><span style="color: rgba(248, 231, 28, 1)">आप भी</span> <span style="color: rgba(255, 255, 255, 1)">YouTube</span> <span style="color: rgba(248, 231, 28, 1)">पर</span> <span style="color: rgba(255, 255, 255, 1)">Cartoon Videos </span><span style="color: rgba(248, 231, 28, 1)">अपलोड करके</span></p> 
+             <p dir="ltr"><span style="color: rgba(248, 231, 28, 1)">महीने का 1-2 लाख कमा सकते हो</span>🤑</p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-10d2cacd" class="sc-fEUNkw jxtBdC">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU heaEQU">
+            <div id="text-1526b582" font-size="25" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="600" class="sc-eInJlc ivqInH">
+             <div>
+              <p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">आपको Bundle में मिलेंगे 2,000+ Hindi Cartoon Stories Video</span><span style="color: rgba(248, 231, 28, 1)"> (100% COPYRIGHT FREE)</span></p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-95f8238d" class="sc-fEUNkw gbKmAM">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-fAJaQT hUlXeb">
+            <div id="video-8241e18c" class="sc-kjoXOD cgpnIF">
+             <div style="width:100%;height:100%" class="react-player"></div>
+            </div>
+           </div>
+           <div class="sc-ileJJU kCoTLU">
+            <div id="row-6e1706a2" class="sc-fEUNkw bbbwCk">
+             <div size="12" class="sc-eqPNPO cvuqY">
+              <div class="sc-ileJJU bKUMjE">
+               <div id="text-438b8d22" font-size="20" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc eApiRj">
+                <div>
+                 <p dir="ltr"><strong>✅</strong><span style="color: rgba(0, 0, 0, 1)"><strong>2,000+ Hindi Cartoon </strong></span><strong> ✅Attractive Thumbnails ✅SEO Description &amp; Tags</strong></p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU kCoTLU">
+            <div id="row-be04a6b8" class="sc-fEUNkw hfzRaR">
+             <div size="4" class="sc-eqPNPO gUKmRj">
+              <div class="sc-ileJJU bKUMjE">
+               <div id="text-503d1466" font-size="30" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="700" class="sc-eInJlc dRppFh">
+                <div>
+                 <p dir="ltr"><span style="color: rgba(248, 231, 28, 1)">2000+ 2D Cartoon Video in Just ₹99</span></p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div size="4" class="sc-eqPNPO jTZwCJ">
+              <div class="sc-fAJaQT dXadKn">
+               <div class="sc-gVyKpa dxbcqG">
+                <picture class="sc-eXNvrr TiamF">
+                 <img id="image-b1ac5130" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/63ce45922f711_laca.png" width="201" loading="lazy" class="sc-gpHHfC gWlzGj">
+                </picture>
+               </div>
+              </div>
+             </div>
+             <div size="4" class="sc-eqPNPO kqTSuT">
+              <div class="sc-ileJJU bKUMjE">
+               <div id="text-934bb4dd" font-size="30" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="700" class="sc-eInJlc dRppFh">
+                <div>
+                 <p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">1 Video Is Less Than Of </span><span style="color: rgba(248, 231, 28, 1)">₹0.049 Paisa</span></p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU hLgixF">
+            <div id="text-77ad481f" font-size="50" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc dnGISm">
+             <div>
+              <p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">LIMITED TIME OFFER</span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-fAJaQT bbHtIb">
+            <div id="countdown-c51b26ee" class="sc-fzsDOv cDKHAG">
+             <section class="sc-eMigcr eGqvRD">
+              <section color="rgba(255, 0, 31, 1)" font-size="30" class="sc-dTdPqK hjTpHq">
+               00
+              </section>
+              <section color="rgba(255, 255, 255, 1)" font-size="30" class="sc-itybZL eWiiJs">
+               days
+              </section>
+             </section>
+             <section color="rgba(255, 0, 31, 1)" font-size="30" class="sc-krDsej kIVkpm">
+               : 
+             </section>
+             <section class="sc-eMigcr eGqvRD">
+              <section color="rgba(255, 0, 31, 1)" font-size="30" class="sc-dTdPqK hjTpHq">
+               00
+              </section>
+              <section color="rgba(255, 255, 255, 1)" font-size="30" class="sc-itybZL eWiiJs">
+               hours
+              </section>
+             </section>
+             <section color="rgba(255, 0, 31, 1)" font-size="30" class="sc-krDsej kIVkpm">
+               : 
+             </section>
+             <section class="sc-eMigcr eGqvRD">
+              <section color="rgba(255, 0, 31, 1)" font-size="30" class="sc-dTdPqK hjTpHq">
+               00
+              </section>
+              <section color="rgba(255, 255, 255, 1)" font-size="30" class="sc-itybZL eWiiJs">
+               minutes
+              </section>
+             </section>
+             <section color="rgba(255, 0, 31, 1)" font-size="30" class="sc-krDsej kIVkpm">
+               : 
+             </section>
+             <section class="sc-eMigcr eGqvRD">
+              <section color="rgba(255, 0, 31, 1)" font-size="30" class="sc-dTdPqK hjTpHq">
+               00
+              </section>
+              <section color="rgba(255, 255, 255, 1)" font-size="30" class="sc-itybZL eWiiJs">
+               seconds
+              </section>
+             </section>
+            </div>
+           </div>
+           <div class="sc-ileJJU gTAOia">
+            <a id="button-1ade22ad" href="https://dgoffers.in/2k-cartton-videos/" target="_self" rel="" class="sc-bdVaJa dKmTz">
+             <div class="sc-bwzfXH eqoTOr">
+              JOIN करे सिर्फ ₹99 ONLY 👉🏿(Ending Soon)👈🏿
+             </div></a>
+           </div>
+           <div class="sc-ileJJU jXCitA">
+            <div id="text-aa9c7dca" font-size="39" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="700" class="sc-eInJlc eqTWgv">
+             <div>
+              <p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">BUY + DOWNLOAD + UPLOAD AND </span><span style="color: rgba(255, 255, 255, 1)"><strong>THANKS ME LATER..!</strong></span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU cCIdHo">
+            <div id="text-b821dd23" font-size="45" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="700" class="sc-eInJlc doESuE">
+             <div>
+              <p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">Only 10 Last Bundles Left.....</span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU jMnzyL">
+            <div class="sc-cjHlYL cZmkQ">
+             <style>
+.sc-cNQqM.dLdVIW {
+    display: none;
+}
+</style>
+            </div>
+           </div>
+           <div class="sc-ileJJU bhmqWK">
+            <div id="text-fa85174e" font-size="39" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="600" class="sc-eInJlc hhOIXb">
+             <div>
+              <p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">ACTUAL COST : ₹ 15000/-</span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU rNFYm">
+            <div id="text-80065b14" font-size="36" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="700" class="sc-eInJlc gUTrHW">
+             <div>
+              <p dir="ltr"><span style="color: rgba(248, 231, 28, 1)">Buy Now &amp; Get Rs 8000 BONUSES 100% FREE</span></p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU kOWMaB">
+      <section id="section-7f37cde6" class="sc-iiUIRa ceZisE">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-2fae551b" class="sc-fEUNkw cFovVr">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU bKUMjE">
+            <div id="text-081917ec" font-size="71" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc biGvaY">
+             <div>
+              <p dir="ltr"><span style="color: rgba(0, 0, 0, 1)"><strong>DEMO 2D CARTOON VIDEO</strong></span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU fAuPji">
+            <hr id="horizontalline-c618adea" class="sc-fMiknA kBaazy">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU koBbPD">
+      <section id="section-c9cf3e9e" class="sc-iiUIRa fSIqLd">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-5791c9f8" class="sc-fEUNkw hparKl">
+          <div size="6" class="sc-eqPNPO fwpfkH">
+           <div class="sc-fAJaQT bbHtIb">
+            <div id="video-454ece47" class="sc-kjoXOD bCeJUD">
+             <div style="width:100%;height:100%" class="react-player"></div>
+            </div>
+           </div>
+          </div>
+          <div size="6" class="sc-eqPNPO bPSDDy">
+           <div class="sc-fAJaQT bbHtIb">
+            <div id="video-e4009317" class="sc-kjoXOD bCeJUD">
+             <div style="width:100%;height:100%" class="react-player"></div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU qelVY">
+      <section id="section-fd38f58c" class="sc-iiUIRa dJMrYA">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-9f5a15b8" class="sc-fEUNkw cMUzJy">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU bKUMjE">
+            <div id="text-0d3d8fe3" font-size="46" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc gzssjc">
+             <div>
+              <p dir="ltr">BONUS ITEM <span style="color: rgba(0, 0, 0, 1)">7000+ Ai REELS</span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU dNtwED">
+            <hr id="horizontalline-ab91e4f9" class="sc-fMiknA kBaazy">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU fUROeE">
+      <section id="section-b698aaa2" class="sc-iiUIRa dCJjvE">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-667f3a61" class="sc-fEUNkw eTBBwg">
+          <div size="3" class="sc-eqPNPO jKiQQw">
+           <div class="sc-fAJaQT bbHtIb">
+            <div id="video-1ab44a98" class="sc-kjoXOD dqQhnN">
+             <div style="width:100%;height:100%" class="react-player"></div>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO dxCpoI">
+           <div class="sc-fAJaQT flguYx">
+            <div id="video-ccbf1e58" class="sc-kjoXOD dqQhnN">
+             <div style="width:100%;height:100%" class="react-player"></div>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO irXoXG">
+           <div class="sc-fAJaQT flguYx">
+            <div id="video-ed4b17ed" class="sc-kjoXOD dqQhnN">
+             <div style="width:100%;height:100%" class="react-player"></div>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO fRoEdW">
+           <div class="sc-fAJaQT flguYx">
+            <div id="video-f7380929" class="sc-kjoXOD dqQhnN">
+             <div style="width:100%;height:100%" class="react-player"></div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU dCHtJa">
+      <section id="section-db9f51d7" class="sc-iiUIRa geEEyI">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-6b4c5770" class="sc-fEUNkw cMUzJy">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU dMtYyJ">
+            <a id="button-7fc299cf" href="https://dgoffers.in/2k-cartton-videos/" target="_self" rel="" class="sc-bdVaJa jHzZXm">
+             <div class="sc-bwzfXH eqoTOr">
+              JOIN करे सिर्फ ₹99 ONLY
+             </div></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU jCYVbf">
+      <section id="section-11fe5713" class="sc-iiUIRa iwGufe">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-9ed528e8" class="sc-fEUNkw kFABAu">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU bKUMjE">
+            <div id="text-8a4c441f" font-size="80" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc bBhOGd">
+             <div>
+              <p dir="ltr"><span style="color: rgba(0, 0, 0, 1)"><strong>CHECKOUT BELOW RESULTS</strong></span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU jrZUmL">
+            <hr id="horizontalline-52b54f44" class="sc-fMiknA kBaazy">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU bbSRcs">
+      <section id="section-96250d52" class="sc-iiUIRa iPsXCq">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-fd3089b0" class="sc-fEUNkw hparKl">
+          <div size="3" class="sc-eqPNPO jKiQQw">
+           <div class="sc-fAJaQT hKoVgY">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr dvEikk">
+              <img id="image-fa47fdc6" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655de98ded142_Picsart_23-11-22_17-13-09-166.jpg" width="285" loading="lazy" class="sc-gpHHfC jjhoUo">
+             </picture>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO dxCpoI">
+           <div class="sc-fAJaQT hKoVgY">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr dvEikk">
+              <img id="image-5c8e67e7" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655dd4473fa01_Picsart_23-11-22_15-40-11-767.jpg" width="285" loading="lazy" class="sc-gpHHfC jjhoUo">
+             </picture>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO irXoXG">
+           <div class="sc-fAJaQT hKoVgY">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr dvEikk">
+              <img id="image-5ed939c9" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655dd4604c881_Picsart_23-11-22_15-41-00-309.jpg" width="285" loading="lazy" class="sc-gpHHfC jjhoUo">
+             </picture>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO fRoEdW">
+           <div class="sc-fAJaQT cxKOER">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr dvEikk">
+              <img id="image-40fa4fbb" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655dd418eb815_Picsart_23-11-22_15-39-19-916.jpg" width="285" loading="lazy" class="sc-gpHHfC jjhoUo">
+             </picture>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU dnqpEI">
+      <section id="section-28a3a052" class="sc-iiUIRa dJMrYA">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-4f0ae472" class="sc-fEUNkw cMUzJy">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU bKUMjE">
+            <div id="text-d3255a86" font-size="60" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc ifXxJZ">
+             <div>
+              <p dir="ltr">देखिये हमारे <span style="color: rgba(0, 0, 0, 1)">STUDENTS </span>का अनुभव!</p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU bKUMjE">
+            <hr id="horizontalline-2a81e284" class="sc-fMiknA kBaazy">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU xOFnO">
+      <section id="section-370fa27e" class="sc-iiUIRa ddbwrY">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-a40d1c47" class="sc-fEUNkw hkqEdo">
+          <div size="3" class="sc-eqPNPO jKiQQw">
+           <div class="sc-fAJaQT cxKOER">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr jhZdkB">
+              <img id="image-dec50a98" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655de87e6915e_Screenshot_20231122_163719.jpg" width="360" loading="lazy" class="sc-gpHHfC bEvQqn">
+             </picture>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO dxCpoI">
+           <div class="sc-fAJaQT cxKOER">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr jhZdkB">
+              <img id="image-9f318053" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655de87fa6c07_Screenshot_20231122_164252.jpg" width="360" loading="lazy" class="sc-gpHHfC bEvQqn">
+             </picture>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO irXoXG">
+           <div class="sc-fAJaQT cxKOER">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr jhZdkB">
+              <img id="image-8a2c1c94" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655de88e429b8_Screenshot_20231122_170255.jpg" width="360" loading="lazy" class="sc-gpHHfC bEvQqn">
+             </picture>
+            </div>
+           </div>
+          </div>
+          <div size="3" class="sc-eqPNPO fRoEdW">
+           <div class="sc-fAJaQT cxKOER">
+            <div class="sc-gVyKpa dxbcqG">
+             <picture class="sc-eXNvrr yLIqQ">
+              <img id="image-3fe12744" src="https://d1yei2z3i6k35z.cloudfront.net/3250987/655de88c469c4_Screenshot_20231122_165157.jpg" width="360" loading="lazy" class="sc-gpHHfC bEvQqn">
+             </picture>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU sLBOy">
+      <section id="section-2d7ffc69" class="sc-iiUIRa gRWuSP">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-5a4736d5" class="sc-fEUNkw eiEYVi">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU dMtYyJ">
+            <a id="button-e60a5ce7" href="https://dgoffers.in/2k-cartton-videos/" target="_self" rel="" class="sc-bdVaJa jHzZXm">
+             <div class="sc-bwzfXH eqoTOr">
+              JOIN करे सिर्फ ₹99 ONLY
+             </div></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU kxCIFs">
+      <section id="section-5505f183" class="sc-iiUIRa gRWuSP">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-9f6c27c6" class="sc-fEUNkw gGALTs">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU bKUMjE">
+            <div id="text-3ba6b25b" font-size="70" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc gGLeZp">
+             <div>
+              <p dir="ltr">अक्सर पूछे जाने वाले <span style="color: rgba(0, 0, 0, 1)">सवाल</span></p>
+             </div>
+            </div>
+           </div>
+           <div class="sc-ileJJU bKUMjE">
+            <hr id="horizontalline-4d1adead" class="sc-fMiknA kBaazy">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU cwIRjW">
+      <section id="section-f8f52984" class="sc-iiUIRa gRWuSP">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-34b2f63e" class="sc-fEUNkw cMUzJy">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU jFlOdf">
+            <div id="faq-17391699" class="sc-cpHetk euAEVn">
+             <div class="sc-AnqlK fiLlFs">
+              <div font-size="16" color="rgba(24, 24, 24, 1)" font-family="Poppins" font-style="normal" font-weight="700" class="sc-bhlBdH kYZPlp">
+               Q1. क्या हम इन वीडियो को अपने YouTube चैनल पर अपलोड कर सकते हैं?
+               <i class="sc-nrwXf gXKCmg fas fa-chevron-circle-up"></i>
+              </div>
+              <div class="sc-eitiEO dQSZIB">
+               <div class="sc-ileJJU bKUMjE">
+                <div id="text-82b94e5a" font-size="20" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="300" class="sc-eInJlc imjMGX">
+                 <div>
+                  <p dir="ltr"><span style="color: rgba(90, 85, 11, 1)"><strong>जी बिल्कुल आप इन वीडियो को अपने YouTube चैनल पर अपलोड कर सकते हो। आपको कोई भी Copyright आएगी।</strong></span></p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="sc-AnqlK fiLlFs">
+              <div font-size="16" color="rgba(24, 24, 24, 1)" font-family="Poppins" font-style="normal" font-weight="700" class="sc-bhlBdH kYZPlp">
+               Q2. Payment के बाद हमको वीडियो कैसे मिलेगी?
+               <i class="sc-nrwXf gXKCmg fas fa-chevron-circle-up"></i>
+              </div>
+              <div class="sc-eitiEO dQSZIB">
+               <div class="sc-ileJJU bKUMjE">
+                <div id="text-ef92427b" font-size="20" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc cLHuNk">
+                 <div>
+                  <p dir="ltr"><span style="color: rgba(90, 85, 11, 1)"><strong>Payment करने के बाद आपको WhatsApp पर एक Google Drive Link भेजा जाएगा, जहां से आप सारे वीडियो डाउनलोड कर सकते हो।</strong></span></p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="sc-AnqlK fiLlFs">
+              <div font-size="16" color="rgba(24, 24, 24, 1)" font-family="Poppins" font-style="normal" font-weight="700" class="sc-bhlBdH kYZPlp">
+               Q3. यह वीडियो हमारे पास कब तक रहेगी?
+               <i class="sc-nrwXf gXKCmg fas fa-chevron-circle-up"></i>
+              </div>
+              <div class="sc-eitiEO dQSZIB">
+               <div class="sc-ileJJU bKUMjE">
+                <div id="text-6847bb81" font-size="20" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc cLHuNk">
+                 <div>
+                  <p dir="ltr"><span style="color: rgba(90, 85, 11, 1)">आपको सारी हिंदी कार्टून वीडियो Lifetime Access के साथ मिलेगी।</span></p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="sc-AnqlK fiLlFs">
+              <div font-size="16" color="rgba(24, 24, 24, 1)" font-family="Poppins" font-style="normal" font-weight="700" class="sc-bhlBdH kYZPlp">
+               Q4. क्या इन वीडियो से हमारा YouTube Channel Monetize होगा?
+               <i class="sc-nrwXf gXKCmg fas fa-chevron-circle-up"></i>
+              </div>
+              <div class="sc-eitiEO dQSZIB">
+               <div class="sc-ileJJU bKUMjE">
+                <div id="text-a7dca8ff" font-size="20" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc cLHuNk">
+                 <div>
+                  <p dir="ltr"><span style="color: rgba(90, 85, 11, 1)">आप इन Cartoon Hindi Story Videos को अपलोड करके अपना चैनल Grow कर सकते हो और Monetize भी कर सकते हो आसानी से।</span></p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-2954e04a" class="sc-fEUNkw dRMQzI">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU dMtYyJ">
+            <a id="button-bc047d76" href="https://dgoffers.in/2k-cartton-videos/" target="_self" rel="" class="sc-bdVaJa ilWJSz">
+             <div class="sc-bwzfXH eqoTOr">
+              JOIN करे सिर्फ ₹99 ONLY 👉🏿(Ending Soon)👈🏿
+             </div></a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU llYpjx">
+      <section id="section-cdf28b99" class="sc-iiUIRa emSdkO">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-df8f403f" class="sc-fEUNkw cFovVr">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU kCoTLU">
+            <div id="row-bf8365e2" class="sc-fEUNkw cFovVr">
+             <div size="12" class="sc-eqPNPO cvuqY">
+              <div class="sc-ileJJU bKUMjE">
+               <hr id="horizontalline-98e9068c" class="sc-fMiknA kBaazy">
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="sc-fAJaQT quZXr">
+            <div id="headline-3d4b7bc0" font-size="65" font-family="Poppins" font-style="normal" font-weight="700" class="sc-eInJlc gevNDK">
+             <p dir="ltr">ACTUAL COST : <span style="color: rgba(208, 2, 27, 1)">₹ 15000/-</span></p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU bnxIWX">
+      <section id="section-668f4c39" class="sc-iiUIRa gvBvPU">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-45d03bc2" class="sc-fEUNkw cMUzJy">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU bKUMjE">
+            <div id="text-a7132641" font-size="60" font-family="Poppins" color="rgba(0, 0, 0, 1)" font-style="normal" font-weight="700" class="sc-eInJlc kOawiM">
+             <div>
+              <p dir="ltr"><span style="color: rgba(0, 0, 0, 1)"><u>But Today At Just:</u></span><span style="color: rgba(91, 165, 4, 1)"><u> Rs.99</u></span><span style="color: rgba(0, 0, 0, 1)"><u> For Next 10 People...!</u></span></p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+     <div class="sc-ileJJU fVzaxl">
+      <section id="section-623633ea" class="sc-iiUIRa kBINUF">
+       <div width="settings_styles.content_width.medium" class="sc-eLdqWK dSBkgw">
+        <div class="sc-ileJJU kCoTLU">
+         <div id="row-2a701e80" class="sc-fEUNkw fYGiNX">
+          <div size="12" class="sc-eqPNPO cvuqY">
+           <div class="sc-ileJJU iVnFgS">
+            <div id="text-2ccd985e" font-size="14" font-family="Poppins" color="rgba(0, 0, 0, 1)" class="sc-eInJlc ccPtqQ">
+             <div>
+              <p dir="ltr"><span style="color: rgba(255, 255, 255, 1)">Copyright © 2022 ( Ak Offers)</span></p> 
+              <p dir="ltr"><a href="https://www.rewardsfire.in/privacypolicy" style=""><span style="color: rgba(255, 255, 255, 1)">Privacy Policy</span></a><span style="color: rgba(255, 255, 255, 1)"> | </span><a href="https://www.rewardsfire.in/termsandconditions" style=""><span style="color: rgba(255, 255, 255, 1)">Terms &amp; Conditions</span></a><span style="color: rgba(255, 255, 255, 1)"> | </span><a href="https://www.rewardsfire.in/contactus" style=""><span style="color: rgba(255, 255, 255, 1)">Contact Us</span></a><span style="color: rgba(255, 255, 255, 1)"> | </span><a href="https://www.rewardsfire.in/disclaimer" style=""><span style="color: rgba(255, 255, 255, 1)">Disclaimer</span></a></p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+   <a href="https://systeme.io/?sa=sa007097951195dc2a641e0f1bca12b9c4a04cc8ff" target="_blank" rel="noopener noreferrer">
+    <div class="sc-cNQqM dLdVIW">
+     <span class="sc-iFUGim fYUGFK">Powered by</span>
+    </div></a>
+  </div> 
+ </body>
+</html>
