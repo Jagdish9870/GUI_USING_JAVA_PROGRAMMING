@@ -4,6 +4,7 @@ public class JRadioButtonProg {
         JFrame jf = new JFrame();
         jf.setBounds(200, 200, 600, 400);  
         jf.setLayout(null);
+        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jf.setVisible(true);
 
         JRadioButton first= new JRadioButton("CSE");

@@ -5,7 +5,7 @@ public class JFramePro4  {
 
     JFramePro4(){
 
-         JFrame jf= new  JFrame();
+        JFrame jf= new  JFrame();
          
         jf.setBounds(200, 200, 600, 400);  
         jf.setVisible(true);

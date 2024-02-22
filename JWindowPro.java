@@ -25,6 +25,7 @@ class Frame24 extends JFrame{
            jw.setLayout(new FlowLayout());
 
             JLabel jl2= new JLabel();
+            jl2.setSize(100,50);
             jl2.setText("this is window");
             jw.add(jl2);
 
